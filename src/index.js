@@ -4,7 +4,7 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 
 import "./App.css";
-import "./Search.css";
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<StrictMode>
   <App />
