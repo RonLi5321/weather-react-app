@@ -30,6 +30,7 @@
     max-height: 100%;
     padding: 40px 20px;
     opacity: 70%;
+    text-align: center;
   }
   .f-temp {
     display: block;
